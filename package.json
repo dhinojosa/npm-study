@@ -1,0 +1,28 @@
+{
+  "name": "npm-study",
+  "version": "1.0.0",
+  "description": "Study NPM Project",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^3.19.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "eslint": "^3.19.0",
+    "sinon": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhinojosa/npm-study"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "NPM",
+    "TDD"
+  ],
+  "author": "Daniel Hinojosa <dhinojosa@evolutionnext.com>",
+  "license": "Apache-2"
+}
